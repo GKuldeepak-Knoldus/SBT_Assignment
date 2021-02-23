@@ -33,4 +33,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Running the Module 
-- Run the Calculator class by using "sbt run" command. It will run all the other class on which the Calculator_impl is depended.
+- Run the Calculator class by using "sbt run" command. It will run all the other class on which the Calculator class is depended.
