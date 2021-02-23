@@ -16,7 +16,7 @@
 ### Division
 - Dividing first integer by other Integer
 
-## Power
+### Power
 - Calculating the power of an Integer
 
 ### Absolute
